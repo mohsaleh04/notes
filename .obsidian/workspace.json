@@ -11,16 +11,14 @@
             "id": "21f97728c0a771c3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Mortazavi/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V"
             }
           }
         ]
@@ -176,49 +174,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "e7e353ffc36cef8a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5ac385871803aa79",
-        "type": "window",
-        "children": [
-          {
-            "id": "62ef46290c4d9762",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bb1b743e7fd36a89",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
-                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 32,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bb1b743e7fd36a89",
+  "active": "21f97728c0a771c3",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "Mortazavi/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
+    "Untitled Kanban.md",
     "Hello Obsidian.md",
     "Test 1 - fucking windows!.md",
     "hbvgyb.md",
