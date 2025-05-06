@@ -11,14 +11,10 @@
             "id": "21f97728c0a771c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mortazavi/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح)"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,8 +146,7 @@
               "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,17 +168,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "21f97728c0a771c3",
+  "active": "aaef941b9fe323f0",
   "lastOpenFiles": [
+    "jmm,m.md",
+    "2025-05-06.md",
+    "Untitled.canvas",
+    "Hello Obsidian.md",
     "Mortazavi/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
     "Untitled Kanban.md",
-    "Hello Obsidian.md",
     "Test 1 - fucking windows!.md",
     "hbvgyb.md",
     "New Text Document.txt",
     "Mortazavi/100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح).md",
     "Mortazavi",
-    "2025-05-06.md",
     "Welcome.md"
   ]
 }

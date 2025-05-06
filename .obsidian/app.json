@@ -1,3 +1,5 @@
 {
-  "showLineNumber": false
+  "showLineNumber": false,
+  "uriCallbacks": true,
+  "alwaysUpdateLinks": true
 }
