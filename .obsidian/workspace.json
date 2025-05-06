@@ -11,10 +11,14 @@
             "id": "21f97728c0a771c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "تابع هیوریستیک - مسئله جاروبرقی.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "تابع هیوریستیک - مسئله جاروبرقی"
             }
           }
         ]
@@ -168,14 +172,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aaef941b9fe323f0",
+  "active": "21f97728c0a771c3",
   "lastOpenFiles": [
+    "Mortazavi/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
+    "تابع هیوریستیک - مسئله جاروبرقی.md",
     "2025-05-06-19-46-13.md",
     "jmm,m.md",
     "2025-05-06.md",
     "Untitled.canvas",
     "Hello Obsidian.md",
-    "Mortazavi/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
     "Untitled Kanban.md",
     "Test 1 - fucking windows!.md",
     "hbvgyb.md",
