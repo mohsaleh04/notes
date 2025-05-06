@@ -1,3 +1,5 @@
 {
-  "show-checkboxes": false
+  "show-checkboxes": false,
+  "move-tags": true,
+  "move-dates": true
 }
