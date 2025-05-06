@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "884ca6c8faebbe2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcde9d915f4386f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f97728c0a771c3",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec824893bf0de941",
+    "type": "split",
+    "children": [
+      {
+        "id": "4939a84def2da0ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaef941b9fe323f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9defdf01f6f12e20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44681a7f262b61e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56bfdfc9b66bdb30",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f0239618e962c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85fbf217b3e857b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح)"
+            }
+          },
+          {
+            "id": "6a3ddf03d2d54807",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "3734cc50066a53c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6d90ee35bc45da0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "floating": {
+    "id": "e7e353ffc36cef8a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5ac385871803aa79",
+        "type": "window",
+        "children": [
+          {
+            "id": "62ef46290c4d9762",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb1b743e7fd36a89",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
+                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 32,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bb1b743e7fd36a89",
+  "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Mortazavi/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
+    "Hello Obsidian.md",
+    "Test 1 - fucking windows!.md",
+    "hbvgyb.md",
+    "New Text Document.txt",
+    "Mortazavi/100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح).md",
+    "Mortazavi",
+    "2025-05-06.md",
+    "Welcome.md"
+  ]
+}
