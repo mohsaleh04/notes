@@ -3,5 +3,6 @@
   "github-sync",
   "obsidian-kanban",
   "obsidian-gist",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-reminder-plugin"
 ]
