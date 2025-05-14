@@ -138,3 +138,36 @@ if (checkPermission && !onlySelect && Build.VERSION.SDK_INT >= 23) {
 
 1. بعد از حذف اینیشیال پرمیشن ها ، حالا دکمه های شروع تماس (چه صوتی، چه تصویری) نمیتونن کار کنن، چون مجوز ندارن و <u>نمیتونن اونو درخواست کنن!</u> 
 2. مجوز نوتیفیکیشن و اون مجوز هایی که پایه ای هست رو همون اول برنامه بگیر .. مث `Post Notificaiton` و `Picture-In-Picture`
+-------------------------------------
+**باگ جدید**
+رشنال ها به نظر درست پیاده سازی شدن..
+فقط دوتا آیکون تماس های ویدیوئی و صوتی توی TitleBar اپ، به درستی پیاده سازی نشدن و وقتی مجوز رو رد میکنی، دیگه اون رشنالش نشون داده نمیشه و باید فیکس بشه . همچنین وفتی روی اون هیستوری  تماس ها توی چت، ضربه میزنیم هم دیگه هیچ پرمیشنی درخواست نمیکنه..
+
+------------------------------------------------------------------------
+
+### باگ آپلود پروفایل
+لاگ:
+```
+09:20:13.124 14315-14499 okhttp....Client  I  --> POST https://inews.local.boshrapardaz.ir/apiservice/public/api/v1/profile/upload http/1.1
+09:20:13.124 14315-14499                   I  Content-Type: multipart/form-data; boundary=ebe47a46-046d-40f6-860f-d4f89436c5a7
+09:20:13.124 14315-14499                   I  Content-Length: 20129
+09:20:13.124 14315-14499                   I  Authorization: Bearer 1344216|Zh7SmfEn133OphRXpuRyijMOyTDTXCrtFsViqVDD
+09:20:13.124 14315-14499                   I  Clversion: 4.4.1
+09:20:13.124 14315-14499                   I  Accept: application/json
+09:20:13.124 14315-14499                   I  resource: AndroidI25301746977735396
+09:20:13.124 14315-14499                   I  client_type: android
+09:20:13.124 14315-14499                   I  Appname: Intragram
+09:20:13.124 14315-14499                   I  Cltype: android
+09:20:13.124 14315-14499                   I  info: {"CL":"android","VN":"4.4.1","VC":"109","ip":"102.237.146.64","device":"A52sxq","brand":"Samsung","SDK":34,"op":"IR-MCI","IMEI":"secId-3699801f6e91cb99"}
+09:20:13.126 14315-14499                   I  --ebe47a46-046d-40f6-860f-d4f89436c5a7
+09:20:13.126 14315-14499                   I  Content-Disposition: form-data; name="file"; filename="-2147483648_-210014.jpg"
+09:20:13.126 14315-14499                   I  Content-Type: image/jpeg
+09:20:13.126 14315-14499                   I  Content-Length: 19913
+09:20:13.126 14315-14499                   I  
+09:20:13.126 14315-14499                   I  -------------CONTENT--------------
+09:20:13.128 14315-14499                   I 
+09:20:13.129 14315-14499                   I  --ebe47a46-046d-40f6-860f-d4f89436c5a7--
+09:20:13.130 14315-14499                   I  --> END POST (20129-byte body)
+09:20:13.134 14315-14499                   I  <-- HTTP FAILED: java.net.ProtocolException: unexpected end of stream
+09:20:13.141 14315-14315 UploadF...Number  E  line number 104 onFailure: com.androidnetworking.error.ANError: java.net.ProtocolException: unexpected end of stream
+```
