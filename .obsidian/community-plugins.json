@@ -2,7 +2,5 @@
   "code-styler",
   "github-sync",
   "obsidian-kanban",
-  "obsidian-gist",
-  "obsidian-pandoc",
-  "obsidian-reminder-plugin"
+  "obsidian-pandoc"
 ]
