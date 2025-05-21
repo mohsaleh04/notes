@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugfixes & Logs.md",
+                "file": "Video Call.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bugfixes & Logs"
+              "title": "Video Call"
             }
           }
         ]
@@ -172,11 +172,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "48519ea4197d5860",
+  "active": "aaef941b9fe323f0",
   "lastOpenFiles": [
+    "Bugfixes & Logs.md",
     "Video Call.md",
     "Check Permission For Android Project.md",
-    "Bugfixes & Logs.md",
     "Group leveling project.md",
     "هریک از توابع داخل این کلاس رو در حد یک خط توضیح بده . جداگانه..md",
     "2025-05-13.md",
