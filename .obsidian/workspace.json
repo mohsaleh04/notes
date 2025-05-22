@@ -35,8 +35,7 @@
               "title": "Video Call"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "171e86ea4a924ea2",
+  "active": "48519ea4197d5860",
   "lastOpenFiles": [
-    "Untitled.md",
     "Video Call.md",
+    "Untitled.md",
     "Bugfixes & Logs.md",
     "Check Permission For Android Project.md",
     "Group leveling project.md",
