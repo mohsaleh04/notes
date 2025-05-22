@@ -56,3 +56,28 @@
 > decline
 
 ------------------------------------------------------------------------
+
+api هاش رو بدست بیار ...
+از توی خود سایت .. بعد برو اونجا توی APiServiceش هست . اونجا رو یه چک بزن.
+
+### API endpoints
+
+1. request-room -> request a room
+2. call-members -> call to all of the meet members
+3. join-room -> join to an existing room
+4. call-exists-room -> check is wanted room exists
+5. state-notify -> notify to memr state of 
+6. ...
+
+requestCallingToMember -> call-members (valid)
+
+
+`sipPhone` مقدارش توی state-notify برای چیه
+
+خب تا اینجا این 5 تا رو هندل کردم ... مونده بقیه اش...
+
+بعداً یه `video-notify` واسم میفرستن که با اون تشخیص میدیم، وضعیت فعلی کاربر چیه
+
+
+
+
