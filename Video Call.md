@@ -79,6 +79,30 @@ requestCallingToMember -> call-members (valid)
 بعداً یه `video-notify` واسم میفرستن که با اون تشخیص میدیم، وضعیت فعلی کاربر چیه
 
 
+متن تایتل بالای اسما رو پاک کن .. که اسم کاربرها رو توی صفحه تماس مینویسه .. واسه تماس صوتیه .. برای تماس تصویری خیلی معنی نداره
 
+## 1
+```xml
+<message xmlns='jabber:client' xml:lang='notify_video' to='990000003834@inews.local.boshrapardaz.ir' from='990000003834@inews.local.boshrapardaz.ir' type='headline' id='k5C3kK'><boshra message_type='0'/><body>{&quot;user_server_id&quot;:&quot;990000003834&quot;,&quot;roomName&quot;:&quot;2025_5_22_f611ea33-3d1d-4e39-a04e-88aa35ef3d14&quot;,&quot;resource&quot;:&quot;webclient229555775470117747502481964549&quot;,&quot;uuid&quot;:&quot;87AABC43-11C6-4673-A3B6-76CDC52C0CC0&quot;,&quot;roomMember&quot;:{&quot;server_id&quot;:&quot;990000003834&quot;,&quot;serverName&quot;:&quot;Saleh Masoudi&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:174712018415127,&quot;user_role&quot;:1},&quot;member&quot;:{&quot;server_id&quot;:&quot;990000003834&quot;,&quot;serverName&quot;:&quot;Saleh Masoudi&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:174712018415127,&quot;user_role&quot;:1}}</body></message>
+```
 
+## 2
+```xml
+<message xmlns='jabber:client' xml:lang='notify_video' to='990000003834@inews.local.boshrapardaz.ir' from='990000003929@inews.local.boshrapardaz.ir' type='headline' id='rqv0O3'><boshra message_type='0'/><body>{&quot;user_server_id&quot;:&quot;990000003929&quot;,&quot;roomName&quot;:&quot;2025_5_22_f611ea33-3d1d-4e39-a04e-88aa35ef3d14&quot;,&quot;resource&quot;:&quot;AndroidI24271747812248274&quot;,&quot;uuid&quot;:&quot;493F07B4-31F6-4B72-B96D-0663E83B4FD0&quot;,&quot;roomMember&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:4},&quot;member&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:4}}</body></message>
+```
+
+## 3
+```xml
+<message xmlns='jabber:client' xml:lang='notify_video' to='990000003834@inews.local.boshrapardaz.ir' from='990000003929@inews.local.boshrapardaz.ir' type='headline' id='Qd4Nwf'><boshra message_type='0'/><body>{&quot;user_server_id&quot;:&quot;990000003929&quot;,&quot;roomName&quot;:&quot;2025_5_22_f611ea33-3d1d-4e39-a04e-88aa35ef3d14&quot;,&quot;resource&quot;:&quot;AndroidI24271747812248274&quot;,&quot;uuid&quot;:&quot;8E5801B5-BDB1-4B87-97D1-5D45B9CD9C83&quot;,&quot;roomMember&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:4},&quot;member&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:4}}</body></message>
+```
+
+## 4
+```xml
+<message xmlns='jabber:client' xml:lang='notify_video' to='990000003834@inews.local.boshrapardaz.ir' from='990000003929@inews.local.boshrapardaz.ir' type='headline' id='Ri9U3d'><boshra message_type='0'/><body>{&quot;user_server_id&quot;:&quot;990000003929&quot;,&quot;roomName&quot;:&quot;2025_5_22_f611ea33-3d1d-4e39-a04e-88aa35ef3d14&quot;,&quot;resource&quot;:&quot;AndroidI24271747812248274&quot;,&quot;uuid&quot;:&quot;BFDB90F1-E7D7-4F63-A6C2-8DBE4732E68D&quot;,&quot;roomMember&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:3},&quot;member&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:3}}</body></message>
+```
+
+## 5
+```xml
+<message xmlns='jabber:client' xml:lang='notify_video' to='990000003834@inews.local.boshrapardaz.ir' from='990000003929@inews.local.boshrapardaz.ir' type='headline' id='O9wu7V'><boshra message_type='0'/><body>{&quot;user_server_id&quot;:&quot;990000003929&quot;,&quot;roomName&quot;:&quot;2025_5_22_f611ea33-3d1d-4e39-a04e-88aa35ef3d14&quot;,&quot;resource&quot;:&quot;AndroidI24271747812248274&quot;,&quot;uuid&quot;:&quot;B2234027-55A1-429F-9B6D-629EABD6207F&quot;,&quot;roomMember&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:2},&quot;member&quot;:{&quot;server_id&quot;:&quot;990000003929&quot;,&quot;serverName&quot;:&quot;Mmm&quot;,&quot;serverLastName&quot;:&quot;&quot;,&quot;avatar&quot;:0,&quot;user_role&quot;:2}}</body></message> 
+```
 
