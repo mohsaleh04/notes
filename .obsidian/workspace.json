@@ -11,10 +11,14 @@
             "id": "f947b61e3e1782ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Video Call.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Video Call"
             }
           }
         ]
@@ -168,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaef941b9fe323f0",
+  "active": "f947b61e3e1782ad",
   "lastOpenFiles": [
     "کارها.md",
     "Video Call.md",
