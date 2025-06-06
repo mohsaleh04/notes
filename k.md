@@ -292,3 +292,66 @@ a   a
 
 - **Follow(A) = {c, d, $}**
 - **Follow(B) = {a, b, $}**
+
+
+
+---------------------------------------------------------------------
+
+# محاسبه Follow() برای گرامر داده شده
+
+## گرامر:
+
+```
+expr → term rest
+rest → + expr | - expr | ε
+term → id
+```
+
+## مرحله 1: محاسبه First() برای همه نمادها
+
+### First() پایانه‌ها:
+
+- `First(+) = {+}`
+- `First(-) = {-}`
+- `First(id) = {id}`
+- `First(ε) = {ε}`
+
+### First() غیرپایانه‌ها:
+
+- `First(term) = {id}` (چون term → id)
+- `First(expr) = First(term) = {id}` (چون expr → term rest)
+- `First(rest) = {+, -, ε}` (چون rest → + expr | - expr | ε)
+
+## مرحله 2: محاسبه Follow() برای غیرپایانه‌ها
+
+### Follow(expr):
+
+1. expr نماد شروع است، پس `$` را اضافه می‌کنیم: `Follow(expr) = {$}`
+2. در قانون `rest → + expr` و `rest → - expr`، expr در انتهاست، پس:
+    - `Follow(expr) = Follow(expr) ∪ Follow(rest)`
+
+### Follow(rest):
+
+1. در قانون `expr → term rest`، rest در انتهاست، پس:
+    - `Follow(rest) = Follow(expr) = {$}`
+
+### Follow(term):
+
+1. در قانون `expr → term rest`، بعد از term قرار دارد rest، پس:
+    - `Follow(term) = First(rest) - {ε} = {+, -}`
+    - چون ε در First(rest) است، باید Follow(expr) را هم اضافه کنیم:
+    - `Follow(term) = {+, -} ∪ Follow(expr) = {+, -, $}`
+
+## نتیجه نهایی:
+
+### Follow Sets:
+
+- **Follow(expr) = {$}**
+- **Follow(rest) = {$}**
+- **Follow(term) = {+, -, $}**
+
+## توضیح منطق:
+
+1. **expr**: تنها زمانی که در انتهای ورودی یا بعد از + و - قرار می‌گیرد
+2. **rest**: همیشه در انتهای expr قرار دارد، پس Follow آن همان Follow(expr) است
+3. **term**: می‌تواند بعد از آن +، - یا انتهای ورودی بیاید

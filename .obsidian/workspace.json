@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Call.md",
+                "file": "k.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Call"
+              "title": "k"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "171e86ea4a924ea2",
   "lastOpenFiles": [
+    "Video Call.md",
     "k.md",
     "کارها.md",
     "Notes.md",
@@ -188,7 +189,6 @@
     "Untitled Kanban.md",
     "Untitled.canvas",
     "Pasted image 20250530190920.png",
-    "Video Call.md",
     "هریک از توابع داخل این کلاس رو در حد یک خط توضیح بده . جداگانه..md",
     "2025-05-13.md",
     "To-Do List.md",
