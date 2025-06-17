@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "884ca6c8faebbe2c",
+    "id": "7dbb1380308becd4",
     "type": "split",
     "children": [
       {
-        "id": "8e8b2e64711a6331",
+        "id": "8166816ec8d80a35",
         "type": "tabs",
         "children": [
           {
-            "id": "171e86ea4a924ea2",
+            "id": "6a2844f2c1d739b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "k"
-            }
-          },
-          {
-            "id": "35c5e5fcf7e3bc64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ec824893bf0de941",
+    "id": "0fe361266fddb2bb",
     "type": "split",
     "children": [
       {
-        "id": "4939a84def2da0ad",
+        "id": "59b3d8be5ff76d88",
         "type": "tabs",
         "children": [
           {
-            "id": "aaef941b9fe323f0",
+            "id": "8fd6cab362d64a66",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +44,7 @@
             }
           },
           {
-            "id": "9defdf01f6f12e20",
+            "id": "bab54f1a65055797",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +61,7 @@
             }
           },
           {
-            "id": "44681a7f262b61e7",
+            "id": "fd3e3329c85f5188",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "56bfdfc9b66bdb30",
+    "id": "58ce8411fda03aee",
     "type": "split",
     "children": [
       {
-        "id": "6f0239618e962c60",
+        "id": "c1c6ddaf43de5a82",
         "type": "tabs",
         "children": [
           {
-            "id": "85fbf217b3e857b7",
+            "id": "602b46cde0eb4cda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Video Call"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "6a3ddf03d2d54807",
+            "id": "53a3afdcf872d4c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "3734cc50066a53c7",
+            "id": "9fbf806accccf46b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,22 +131,20 @@
             }
           },
           {
-            "id": "b6d90ee35bc45da0",
+            "id": "46e5d7e43f048156",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video Call.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Video Call"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,51 +153,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "github-sync:Sync with Remote": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "35c5e5fcf7e3bc64",
-  "lastOpenFiles": [
-    "Untitled.md",
-    "k.md",
-    "Video Call.md",
-    "کارها.md",
-    "Notes.md",
-    "Group leveling project.md",
-    "Check Permission For Android Project.md",
-    "400 INVALID_USER_ROLE.md",
-    "2025-06-06.md",
-    "Google IO.md",
-    "Bugfixes & Logs.md",
-    "Untitled Kanban.md",
-    "Untitled.canvas",
-    "Pasted image 20250530190920.png",
-    "هریک از توابع داخل این کلاس رو در حد یک خط توضیح بده . جداگانه..md",
-    "2025-05-13.md",
-    "To-Do List.md",
-    "Uni/100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح).md",
-    "Pasted image 20250508135105.png",
-    "Pasted image 20250508135059.png",
-    "Uni/تابع هیوریستیک - مسئله جاروبرقی.md",
-    "Uni/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
-    "2025-05-06-19-46-13.md",
-    "jmm,m.md",
-    "2025-05-06.md",
-    "Hello Obsidian.md",
-    "Test 1 - fucking windows!.md",
-    "hbvgyb.md",
-    "New Text Document.txt",
-    "Uni",
-    "Welcome.md"
-  ]
+  "active": "6a2844f2c1d739b1",
+  "lastOpenFiles": []
 }
