@@ -355,3 +355,57 @@ term → id
 1. **expr**: تنها زمانی که در انتهای ورودی یا بعد از + و - قرار می‌گیرد
 2. **rest**: همیشه در انتهای expr قرار دارد، پس Follow آن همان Follow(expr) است
 3. **term**: می‌تواند بعد از آن +، - یا انتهای ورودی بیاید
+
+------------------------------------------------------------------------
+
+دستگیره (Handle) یکی از مفاهیم کلیدی در پارسرهای LR هست که برای تشخیص زمان reduce کردن استفاده میشه.
+
+## تعریف Handle:
+
+Handle یک زیررشته از right sentential form هست که:
+
+1. برابر با سمت راست یک production باشه
+2. جایگزینی آن با سمت چپ production، یک rightmost derivation معکوس ایجاد کنه
+
+## مثال عملی:
+
+فرض کن گرامر داریم:
+
+```
+E → E + T
+E → T  
+T → T * F
+T → F
+F → (E)
+F → id
+```
+
+برای رشته `id + id * id`:
+
+**Rightmost derivation:**
+
+```
+E ⇒ E + T ⇒ E + T * F ⇒ E + T * id ⇒ E + F * id ⇒ E + id * id ⇒ T + id * id ⇒ F + id * id ⇒ id + id * id
+```
+
+**معکوس آن (Shift-Reduce):**
+
+```
+id + id * id
+F + id * id     (reduce: F → id)
+T + id * id     (reduce: T → F)
+E + id * id     (reduce: E → T)
+E + F * id      (reduce: F → id)
+E + T * id      (reduce: T → F)
+E + T * F       (reduce: F → id)
+E + T           (reduce: T → T * F)
+E               (reduce: E → E + T)
+```
+
+## کاربرد در LR Parser:
+
+- LR parser از پشته (stack) استفاده می‌کنه
+- وقتی handle روی top of stack باشه، reduce می‌کنه
+- وگرنه shift می‌کنه
+
+Handle تشخیص می‌ده که کی باید reduce کنیم تا درخت parse درست ساخته بشه بدون conflict.
