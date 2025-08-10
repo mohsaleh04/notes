@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "56bfdfc9b66bdb30",
@@ -202,10 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af0713dd982476b6",
+  "active": "ee109077f3ea4bb5",
   "lastOpenFiles": [
-    "Untitled 5.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
     "داکبومنت EMULATOR REMOE.md",
+    "Untitled 5.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
     "Untitled 4.md",
     "Untitled 1.md",
     "مشکل پریدن زمان همه.md",
@@ -229,10 +232,6 @@
     "Uni/100 فرمان پرکاربرد در لینوکس فدورا (با مثال و توضیح).md",
     "Pasted image 20250508135105.png",
     "Pasted image 20250508135059.png",
-    "Uni/تابع هیوریستیک - مسئله جاروبرقی.md",
-    "Uni/پروژه راه‌اندازی Proxy Server در لینوکس با استفاده از Hyper-V.md",
-    "2025-05-06-19-46-13.md",
-    "jmm,m.md",
     "Untitled.canvas",
     "New Text Document.txt",
     "Uni"
