@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "a7050c924553c5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,11 +202,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d331d94f0a48a012",
+  "active": "a7050c924553c5ad",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Untitled 2.md",
     "Untitled 3.md",
     "Untitled.md",
-    "Untitled 2.md",
     "مشکل پریدن زمان همه.md",
     "Pasted image 20250715175423.png",
     "Untitled 1.md",
