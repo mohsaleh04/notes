@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PyaKhan/PuyaKhan Bugfixes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PuyaKhan Bugfixes"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PyaKhan/PuyaKhan Bugfixes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PuyaKhan Bugfixes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PyaKhan/PuyaKhan Bugfixes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PuyaKhan Bugfixes"
+              "title": "Outline"
             }
           },
           {
@@ -179,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84caed1632f98828",
+  "active": "6aecbd66c4a8d4b7",
   "lastOpenFiles": [
+    "PyaKhan/PuyaKhan Bugfixes.md",
     "کارهای روزمره",
     "PyaKhan/PuyaKhan Backup Patterns.md",
-    "PyaKhan/PuyaKhan Bugfixes.md",
     "Tasks/Idogram - Video Call.md",
     "Docs/Document Android Emulator Remote.md",
     "Tasks",
