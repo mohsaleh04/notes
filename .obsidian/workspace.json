@@ -11,10 +11,15 @@
             "id": "ce35d96f225ac722",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -122,19 +127,14 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "obsidian-git:Open Git source control": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "bases:Create new base": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84caed1632f98828",
+  "active": "ce35d96f225ac722",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "کارهای روزمره/کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
+    "README.md",
+    "Untitled.canvas",
     "PuyaKhan/PuyaKhan Bugfixes.md",
     "کارهای روزمره",
     "PuyaKhan/PuyaKhan Backup Patterns.md",
