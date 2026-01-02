@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1363b6481d7a9159",
+        "id": "b6a29a46407a495f",
         "type": "tabs",
         "children": [
           {
-            "id": "6aecbd66c4a8d4b7",
+            "id": "ce35d96f225ac722",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,7 +31,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6145e6e9b22ddabc",
+            "id": "e6fcbf1fe198abf2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -118,24 +118,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "6aecbd66c4a8d4b7",
+  "active": "84caed1632f98828",
   "lastOpenFiles": [
-    "PyaKhan/PuyaKhan Bugfixes.md",
+    "Untitled.canvas",
+    "کارهای روزمره/کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
+    "PuyaKhan/PuyaKhan Bugfixes.md",
     "کارهای روزمره",
-    "PyaKhan/PuyaKhan Backup Patterns.md",
+    "PuyaKhan/PuyaKhan Backup Patterns.md",
     "Tasks/Idogram - Video Call.md",
     "Docs/Document Android Emulator Remote.md",
     "Tasks",
@@ -143,20 +145,19 @@
     "Check Permission For Android Project.md",
     "Docs/Academic Research Assistant Prompt.md",
     "Docs",
-    "PyaKhan",
+    "PuyaKhan",
     "Tasks/PuyaKhan Tasks.md",
     "Tasks/Savia Tasks.md",
-    "کارهای روزمره/کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
     "Docs/Jetpack Compose Android - drawWithContent.md",
     "Info/DDNS Credentials.md",
     "Docs/How to convert JSONArray to ArrayList.md",
     "Info/My New Chassis Info.md",
-    "PyaKhan/PuyaKhan - مشکل پریدن زمان همه کدهای رمزپویا.md",
+    "PuyaKhan/PuyaKhan - مشکل پریدن زمان همه کدهای رمزپویا.md",
     "کارها.md",
     "فصل چهارم.md",
     "فصل پنجم.md",
     "فصل اول.md",
-    "PyaKhan/Puyakhan - Share OTP on Local Net with Websocket.md",
+    "PuyaKhan/Puyakhan - Share OTP on Local Net with Websocket.md",
     "Untitled 9.md",
     "Untitled 8.md",
     "Untitled 7.md",
@@ -164,7 +165,6 @@
     "Untitled 5.md",
     "Untitled 4.md",
     "Pasted image 20250715175423.png",
-    "Untitled.canvas",
     "Untitled.base",
     "New Text Document.txt"
   ]
