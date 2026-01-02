@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32de38f95d938193",
+        "id": "1363b6481d7a9159",
         "type": "tabs",
         "children": [
           {
-            "id": "337952b049798624",
+            "id": "6aecbd66c4a8d4b7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PyaKhan/PuyaKhan Bugfixes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for PuyaKhan Bugfixes"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PyaKhan/PuyaKhan Bugfixes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from PuyaKhan Bugfixes"
             }
           },
           {
@@ -136,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PyaKhan/PuyaKhan Bugfixes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PuyaKhan Bugfixes"
             }
           },
           {
@@ -176,34 +179,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "337952b049798624",
+  "active": "84caed1632f98828",
   "lastOpenFiles": [
-    "PuyaKhan Tasks.md",
-    "Savia Tasks.md",
-    "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
-    "Jetpack Compose Android - drawWithContent.md",
-    "DDNS Credentials.md",
-    "Document Android Emulator Remote.md",
-    "How to convert JSONArray to ArrayList.md",
+    "کارهای روزمره",
+    "PyaKhan/PuyaKhan Backup Patterns.md",
+    "PyaKhan/PuyaKhan Bugfixes.md",
+    "Tasks/Idogram - Video Call.md",
+    "Docs/Document Android Emulator Remote.md",
+    "Tasks",
+    "Info",
     "Check Permission For Android Project.md",
-    "My New Chassis Info.md",
-    "Academic Research Assistant Prompt.md",
-    "PuyaKhan - مشکل پریدن زمان همه کدهای رمزپویا.md",
+    "Docs/Academic Research Assistant Prompt.md",
+    "Docs",
+    "PyaKhan",
+    "Tasks/PuyaKhan Tasks.md",
+    "Tasks/Savia Tasks.md",
+    "کارهای روزمره/کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
+    "Docs/Jetpack Compose Android - drawWithContent.md",
+    "Info/DDNS Credentials.md",
+    "Docs/How to convert JSONArray to ArrayList.md",
+    "Info/My New Chassis Info.md",
+    "PyaKhan/PuyaKhan - مشکل پریدن زمان همه کدهای رمزپویا.md",
     "کارها.md",
     "فصل چهارم.md",
     "فصل پنجم.md",
     "فصل اول.md",
-    "Idogram - Video Call.md",
-    "Puyakhan - Share OTP on Local Net with Websocket.md",
+    "PyaKhan/Puyakhan - Share OTP on Local Net with Websocket.md",
     "Untitled 9.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
-    "Untitled 3.md",
-    "Puyakhan - Share OTP on Local Net with Websocket - Modified.md",
-    "PuyaKhan Bugfixes.md",
     "Pasted image 20250715175423.png",
     "Untitled.canvas",
     "Untitled.base",
