@@ -183,8 +183,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6145e6e9b22ddabc",
+  "floating": {
+    "id": "62026e8cbdef3ef2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "24bbf68639257e08",
+        "type": "window",
+        "children": [
+          {
+            "id": "817b779261aaac77",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a2501290228e83e1",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://help.obsidian.md/teams/license",
+                    "title": "Commercial license - Obsidian Help",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Commercial license - Obsidian Help"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "9ee10d29d3151672",
   "lastOpenFiles": [
+    "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
     "New Text Document.txt",
     "Share OTP on Local Net with Websocket - Modified.md",
     "کارهایی که باید انجام بدم.md",
