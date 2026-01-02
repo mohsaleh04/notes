@@ -1,0 +1,8 @@
+{
+  "textFontFamily": "Roboto,Vazirmatn",
+  "interfaceFontFamily": "Segoe UI Variable Display,Vazirmatn",
+  "monospaceFontFamily": "JetBrains Mono",
+  "accentColor": "#daa13e",
+  "baseFontSizeAction": true,
+  "nativeMenus": true
+}
