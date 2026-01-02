@@ -11,14 +11,14 @@
             "id": "9ee10d29d3151672",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴"
+              "title": "Outline"
             }
           },
           {
@@ -182,45 +179,6 @@
       "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
-  },
-  "floating": {
-    "id": "62026e8cbdef3ef2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "24bbf68639257e08",
-        "type": "window",
-        "children": [
-          {
-            "id": "817b779261aaac77",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a2501290228e83e1",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://help.obsidian.md/teams/license",
-                    "title": "Commercial license - Obsidian Help",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Commercial license - Obsidian Help"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
   },
   "active": "9ee10d29d3151672",
   "lastOpenFiles": [
