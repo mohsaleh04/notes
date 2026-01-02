@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b71d3a63dd22f2c4",
+        "id": "c97ab98b3cdfdfd8",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee10d29d3151672",
+            "id": "fe3ffb38c329b02a",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ee10d29d3151672",
+  "active": "fe3ffb38c329b02a",
   "lastOpenFiles": [
     "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
     "New Text Document.txt",
