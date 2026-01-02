@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c97ab98b3cdfdfd8",
+        "id": "32de38f95d938193",
         "type": "tabs",
         "children": [
           {
-            "id": "fe3ffb38c329b02a",
+            "id": "e34868e476add668",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "PuyaKhan Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "PuyaKhan Tasks"
             }
           }
         ]
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PuyaKhan Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for PuyaKhan Tasks"
             }
           },
           {
@@ -112,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PuyaKhan Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from PuyaKhan Tasks"
             }
           },
           {
@@ -140,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PuyaKhan Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PuyaKhan Tasks"
             }
           },
           {
@@ -180,28 +184,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe3ffb38c329b02a",
+  "active": "e34868e476add668",
   "lastOpenFiles": [
+    "Savia Tasks.md",
     "کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
-    "New Text Document.txt",
-    "Share OTP on Local Net with Websocket - Modified.md",
-    "کارهایی که باید انجام بدم.md",
+    "Jetpack Compose Android - drawWithContent.md",
+    "DDNS Credentials.md",
+    "Document Android Emulator Remote.md",
+    "How to convert JSONArray to ArrayList.md",
+    "Check Permission For Android Project.md",
+    "My New Chassis Info.md",
     "Academic Research Assistant Prompt.md",
-    "Chassis Info.md",
-    "متن استخراج شده.md",
-    "PuyaKhan Tasks.md",
-    "Untitled 13.md",
-    "Untitled 11.md",
-    "Untitled 10.md",
-    "Share OTP on Local Net with Websocket.md",
+    "PuyaKhan - مشکل پریدن زمان همه کدهای رمزپویا.md",
+    "کارها.md",
+    "فصل چهارم.md",
+    "فصل پنجم.md",
+    "فصل اول.md",
+    "Idogram - Video Call.md",
+    "Puyakhan - Share OTP on Local Net with Websocket.md",
+    "Untitled 9.md",
     "Untitled 8.md",
-    "DrawContent در اندروید.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "DDNS Credentials.md",
-    "Proposal For Customer.md"
+    "Puyakhan - Share OTP on Local Net with Websocket - Modified.md",
+    "PuyaKhan Bugfixes.md",
+    "PuyaKhan Backup Patterns.md",
+    "Pasted image 20250715175423.png",
+    "Untitled.canvas",
+    "Untitled.base",
+    "New Text Document.txt"
   ]
 }

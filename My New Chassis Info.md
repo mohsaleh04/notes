@@ -1,4 +1,3 @@
-مشخصات کیس:
 CPU: Core i5 13400
 GPU: ASUS Dual Geforce RTX 5060ti 16gb 
 RAM: 2x 16GB DDR5 5200MT/s
