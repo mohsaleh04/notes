@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a29a46407a495f",
+        "id": "c157bb45af0b9176",
         "type": "tabs",
         "children": [
           {
-            "id": "ce35d96f225ac722",
+            "id": "bebb11d4740171dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -130,10 +125,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce35d96f225ac722",
+  "active": "bebb11d4740171dc",
   "lastOpenFiles": [
-    "کارهای روزمره/کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
     "README.md",
+    "کارهای روزمره/کارهایی که باید انجام بدم - جمعه ۱۲ دی ۱۴۰۴.md",
     "Untitled.canvas",
     "PuyaKhan/PuyaKhan Bugfixes.md",
     "کارهای روزمره",
